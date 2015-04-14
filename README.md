@@ -1,2 +1,2 @@
 # shell-scripts
-for cs225 class
+scripts for cs225 class
